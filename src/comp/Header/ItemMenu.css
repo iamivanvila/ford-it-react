@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.ItemMenuTitle{
+    background-color: #fafafa;
+    font-weight: 500;
+    color: #154078;
+    font-size: 11px;
+    padding: 0px 30px;
+    letter-spacing: 1.2px;
+
+}

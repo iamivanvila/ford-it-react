@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.HeaderNavTop{
+    background-color: rgb(247, 247, 247);
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+

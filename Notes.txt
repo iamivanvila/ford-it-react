@@ -1,0 +1,8 @@
+- Fijar NavMiddle
+- Chequear paddings laterales de las imagenes cars
+- Aplicar estilos a: - 
+                     - font titulo, sub botones 
+- Hacer desaparecer los botones transparentes cuando no los necesito
+- funcionalidad a los botones (useState)
+- signos dolar a euros
+- carrousel dimanico entre tabs

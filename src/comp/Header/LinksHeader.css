@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.LinksHeaderText{
+    display: flex;
+    justify-content:flex-end;
+    width: 1120px;
+}
+
+.IconLink{
+    align-items: center;
+    display: flex;
+    padding-left: 15px;
+    color: rgb(105, 105, 105);
+}
+

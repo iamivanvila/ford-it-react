@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.BackgroundGalleryCar{
+    width: 90rem;
+    height: 38rem;
+}
+
+.GalleryCarTitle{
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+    padding: 80px 50px 20px;
+}
+
+.GalleryCarSubtitle{
+    color: white;
+    font-weight: 400;
+    padding: 0px 50px 10px;
+    /* transform: scale(1.6); */
+
+}
+
+.ButtonWhite{
+    padding: 0px 0px 0px;
+    margin-left: 50px;
+    margin-right: 6px;
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    border: none;
+    font-weight: 500;
+}
+
+.ButtonTransparent{
+    padding: 0px 10px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    height: 40px;
+    width: 190px;
+    border-radius: 30px;
+}
